@@ -111,7 +111,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Aircmd port "
+                android:text="Aircmd Port "
                 android:textStyle="bold" />
             <EditText
                 android:id="@+id/txt_aircmd_port"
@@ -226,7 +226,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="서버 IP"
+                android:text="Server IP"
                 android:textStyle="bold" />
             <EditText
                 android:id="@+id/txt_dest_ip"
@@ -245,7 +245,7 @@
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="서버 Port"
+                android:text="Server Port"
                 android:textStyle="bold" />
             <EditText
                 android:id="@+id/txt_dest_port"
