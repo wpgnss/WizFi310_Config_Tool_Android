@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/res_btn_SETAIR"
+        android:id="@+id/btn_SETAIR" />
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="30dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="SET RESULT.."
+        android:id="@+id/editText"
+        android:padding="3dp"
+        android:textAlignment="center"
+        android:paddingTop="10dp" />
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="5dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txt_set_result"
+        android:scrollHorizontally="true"
+        android:layout_weight="0.3" />
+
+    <ProgressBar
+        style="?android:attr/progressBarStyleHorizontal"
+        android:progressDrawable="@drawable/progress_style"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/bar_process"
+        android:layout_gravity="center_horizontal" />
+
+</LinearLayout>

@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">WizFi310_Config_tool</string>
+
+    <string name="module_name">WizFi310</string>
+    <string name="module_defined_SSID">WizFi310_AP_</string>
+    <string name="module_defined_PASS">123456789</string>
+
+    <string name="res_title_step1">1. General Option</string>
+    <string name="res_title_step2">2. Scan WizFi310</string>
+    <string name="res_title_step3">3. Join WizFi310</string>
+    <string name="res_title_step4">4. Set Air Command</string>
+
+    <string name="res_btn_SAVE">Save Config </string>
+    <string name="res_btn_FIND">Scan</string>
+    <string name="res_btn_JOIN">Join</string>
+    <string name="res_btn_SETAIR">Air Command</string>
+
+    <string name="option_title_wizfi310">WizFi310</string>
+    <string name="option_title_ap">Access Point</string>
+    <string name="option_title_server">Destination Server</string>
+
+    <string name="menu_wiznet">WIZnet.co.kr</string>
+    <string name="menu_wiki">Programmers Guide</string>
+    <string name="menu_forum">WizWiki Forum</string>
+
+</resources>

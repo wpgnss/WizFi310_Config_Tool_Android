@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="wiznet.wizfi310_config_tool.MainActivity">
+    <item
+        android:id="@+id/menu_wiznet1"
+        android:orderInCategory="100"
+        android:title="@string/menu_wiznet"
+        app:showAsAction="never" />
+
+
+    <item
+        android:id="@+id/menu_wizwiki1"
+        android:orderInCategory="100"
+        android:title="@string/menu_wiki"
+        app:showAsAction="never" />
+
+
+    <item
+        android:id="@+id/menu_forum1"
+        android:orderInCategory="100"
+        android:title="@string/menu_forum"
+        app:showAsAction="never" />
+</menu>
